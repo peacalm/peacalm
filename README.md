@@ -1,8 +1,7 @@
-### Hi, I'm Shuangquan Li(李双全), from China! My ID “peacalm” means "peaceful & calm". 👋
-
+### Hi, I'm Shuangquan Li(李双全), from China! 👋
+My ID “peacalm” means "peaceful & calm". I ever used another ID "TheLonelyHeracles" here before. 😂  
 I'm working at Bytedance Inc., 2017-.  
 I got my Bachelor and Master of Engineering at Southeast University(SEU), School of Automation, 2010-2017.  
-
 skills: C++, Python, Golang  
 
 
