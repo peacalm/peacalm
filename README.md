@@ -2,7 +2,7 @@
 My ID “peacalm” means "peaceful & calm". I ever used another ID "TheLonelyHeracles" here before. 😂  
 
 I worked at Bytedance Inc., 2017-2022.  
-I got my Bachelor and Master of Engineering at Southeast University, School of Automation, 2010-2017.  
+I got my Bachelor and Master of Engineering at Southeast University, School of Automation, Nanjing, China, 2010-2017.  
 
 Welcome to my website: https://lishuangquan.cn
 <!--
