@@ -5,7 +5,7 @@ I worked at Bytedance Inc. Beijing, China, 2017-2022.
 I got my Bachelor and Master of Engineering at Southeast University, School of Automation, Nanjing, China, 2010-2017.  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peacalm&show_icons=true)](https://github.com/peacalm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peacalm)](https://github.com/peacalm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peacalm&layout=compact)](https://github.com/peacalm)
 
 <!--
 **peacalm/peacalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
