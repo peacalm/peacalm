@@ -7,7 +7,7 @@ I got my Bachelor and Master of Engineering at Southeast University, School of A
 | <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=peacalm&show_icons=true&hide_border=true" alt="Peacalm's github stats" /></a> | <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacalm&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-(Make your own this Github Stats Card [here](https://github.com/anuraghazra/github-readme-stats), Thanks for the author!)
+(Make your own this Github Stats Card <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank>here</a>, Thanks for the author!)
 
 <!--
 **peacalm/peacalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
