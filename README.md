@@ -4,7 +4,6 @@ My ID “peacalm” means "peaceful & calm". I ever used another ID "TheLonelyHe
 I worked at Bytedance Inc. Beijing, China, 2017-2022.  
 I got my Bachelor and Master of Engineering at Southeast University, School of Automation, Nanjing, China, 2010-2017.  
 
-Welcome to my website: https://lishuangquan.cn
 <!--
 **peacalm/peacalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
