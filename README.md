@@ -1,4 +1,4 @@
-### Hi, I'm Shuangquan Li(李双全), from China! 👋
+### Hi, I'm Li Shuangquan (李双全), from China! 👋
 My ID “peacalm” means "peaceful & calm".  
 
 I worked at Bytedance Inc. Beijing, China, 2017-2022.  
